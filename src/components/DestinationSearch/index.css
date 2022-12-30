@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.destination-search-container {
+  padding: 15px;
+}
+
+.destination-heading {
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: bold;
+  color: #000000;
+  margin-left: 43px;
+}
+
+.input-element-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 43px;
+}
+
+.input-element {
+  height: 35px;
+  width: 270px;
+  border-radius: 10px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-width: 0px;
+  background-color: #f1f5f9;
+  outline: none;
+  padding-left: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.search-icon-container {
+  height: 35px;
+  outline: none;
+  background-color: #f1f5f9;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-right: 15px;
+  padding-top: 6px;
+}
+
+.search-icon-size {
+  height: 22px;
+  width: 22px;
+}

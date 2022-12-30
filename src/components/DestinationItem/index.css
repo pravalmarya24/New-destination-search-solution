@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.search-list {
+  list-style-type: none;
+}
+
+.img-container {
+  width: 25%;
+  border-bottom: 15px;
+  padding-left: 0px;
+}
+
+.img-size {
+  width: 100%;
+}
+
+.para {
+  font-family: 'Open Sans';
+  font-size: 15px;
+  font-weight: 500;
+}
